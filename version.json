@@ -1,6 +1,5 @@
 {
-    "version":  "1.92",
-    "url":  "https://github.com/ExaFrenchDev/rl-rank-overlay/releases/download/v1.92/RLRankOverlay_Setup.exe",
-    "sha256":  "bde7c2b4a4e6cf9e12bcc2b7f3353706613d8e662003d431867d6b9fc83335b3",
-    "notes":  "Testing the latest fix"
+    "version":  "1.93",
+    "url":  "https://github.com/ExaFrenchDev/rl-rank-overlay/releases/download/v1.93/RLRankOverlay_Setup.exe",
+    "sha256":  "c9d880fd00e3bb746f98a158383e2d889926be6da689421f9e5849fd3495e499"
 }
