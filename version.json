@@ -1,6 +1,5 @@
 {
-    "version":  "1.95",
-    "url":  "https://github.com/ExaFrenchDev/rl-rank-overlay/releases/download/v1.95/RLRankOverlay_Setup.exe",
-    "sha256":  "df4f4ea67de5981eaf048460032ba616d157f33fca13ff4425f60ef5a46d479f",
-    "notes":  "Fix mmr update and overlay update"
+    "version":  "1.96",
+    "url":  "https://github.com/ExaFrenchDev/rl-rank-overlay/releases/download/v1.96/RLRankOverlay_Setup.exe",
+    "sha256":  "e3f689ae78231c4155badae3b80609727fed6758ff2c72d4769b8a19a5d6a871"
 }
